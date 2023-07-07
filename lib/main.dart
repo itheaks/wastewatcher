@@ -39,7 +39,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
     // Initialize the animation controller
     _animationController = AnimationController(
       vsync: this,
-      duration: const Duration(seconds: 5),
+      duration: const Duration(seconds: 3),
     );
 
     // Create the animation
