@@ -53,7 +53,6 @@ class _SplashScreenState extends State<SplashScreen>
     // Wait for the animation to complete
     _animationController!.addStatusListener((status) {
       if (status == AnimationStatus.completed) {
-        // Animation completed, navigate to the main UI screen
         Navigator.pushReplacement(
           context,
           MaterialPageRoute(builder: (context) => const UI()),
