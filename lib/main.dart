@@ -1,3 +1,4 @@
+//Created by Amit Kumar Singh
 import 'package:flutter/material.dart';
 import 'package:wastewatcher/ui.dart';
 
@@ -28,7 +29,8 @@ class SplashScreen extends StatefulWidget {
   _SplashScreenState createState() => _SplashScreenState();
 }
 
-class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderStateMixin {
+class _SplashScreenState extends State<SplashScreen>
+    with SingleTickerProviderStateMixin {
   AnimationController? _animationController;
   Animation<double>? _animation;
 
@@ -74,7 +76,8 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
       body: Center(
         child: FadeTransition(
           opacity: _animation!,
-          child: Image.asset('assets/img.png'), // Replace with your splash screen image
+          child: Image.asset(
+              'assets/img.png'), // Replace with your splash screen image
         ),
       ),
     );
