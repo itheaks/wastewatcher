@@ -1,6 +1,6 @@
 # Waste Watcher: Transforming Waste Sorting with AI
 
-![launcher_icon](https://github.com/itheaks/wastewatcher/assets/134759689/ad5302fe-c837-42ca-b0f4-13cbf24cd4e3)
+![launcher_icon](https://github.com/itheaks/wastewatcher/assets/134759689/ad5302fe-c837-42ca-b0f4-13cbf24cd4e3) 
 
 Welcome to Waste Watcher, the cutting-edge mobile application that merges the power of machine learning with intuitive user interface design to revolutionize waste classification. With Waste Watcher, you can effortlessly determine the correct waste category for a wide range of objects, promoting environmental sustainability through efficient waste sorting and recycling.
 
