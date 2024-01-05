@@ -5,7 +5,7 @@
 Welcome to Waste Watcher, the cutting-edge mobile application that merges the power of machine learning with intuitive user interface design to revolutionize waste classification. With Waste Watcher, you can effortlessly determine the correct waste category for a wide range of objects, promoting environmental sustainability through efficient waste sorting and recycling.
 
 ## Key Features: Simplifying Waste Classifications
-
+  
 📷 **Image Upload**: Seamlessly upload images from your device's gallery or capture new ones using Waste Watcher's integrated camera feature.
 
 🗑️ **Waste Categorization**: Utilizing state-of-the-art machine learning algorithms, Waste Watcher accurately classifies objects into five primary waste categories: paper, plastic, metal, organic, and glass.
